@@ -2,8 +2,9 @@
 
 ## My tech stack
 
-###### Programming languages:
+###### Languages:
 - ❤ HTML, CSS, JavaScript,
+- ❤ Polish native, English B2
 
 ###### Frameworks:
 - ❤ React.js with hooks, Redux, Redux-thunk, Formik, Yup,
