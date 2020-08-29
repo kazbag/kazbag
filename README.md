@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Kazimierz 👋
 
-## My tech stack:
+## My tech stack
 
 ###### Programming languages:
 - ❤ HTML, CSS, JavaScript,
 
-###### Frameworks
+###### Frameworks:
 - ❤ React.js with hooks, Redux, Redux-thunk, Formik, Yup,
 - ❤ Node.js, Express.js,
 
-###### Databases
+###### Databases:
 - ❤ MongoDB, Mongoose,
 
-###### Tools & others
+###### Tools & others:
 - ❤ VSCode
 - ❤ Oauth2, JWT, Auth0
 
