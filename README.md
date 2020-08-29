@@ -1,4 +1,20 @@
-### Hi there 👋
+# 👋 Hi, I'm Kazimierz 👋
+
+## My tech stack:
+
+###### Programming languages:
+- ❤ HTML, CSS, JavaScript,
+
+###### Frameworks
+- ❤ React.js with hooks, Redux, Redux-thunk, Formik, Yup,
+- ❤ Node.js, Express.js,
+
+###### Databases
+- ❤ MongoDB, Mongoose,
+
+###### Tools & others
+- ❤ VSCode
+- ❤ Oauth2, JWT, Auth0
 
 <!--
 **kazbag/kazbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
