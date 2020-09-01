@@ -13,6 +13,9 @@
 ###### Databases:
 - ❤ MongoDB, Mongoose,
 
+###### Testing:
+- ❤ Mocha, Chai
+
 ###### Tools & others:
 - ❤ VSCode
 - ❤ Oauth2, JWT, Auth0
